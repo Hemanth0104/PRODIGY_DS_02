@@ -1,6 +1,6 @@
 # PRODIGY_DS_02
 
-Here’s your complete **GitHub-ready markdown report** for your Titanic Data Analysis project. You can directly copy-paste this into a `README.md` file:
+
 
 ---
 
